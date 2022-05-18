@@ -1,0 +1,10 @@
+C:\Users\baris\source\repos\serialTerm\serialTerm\bin\Debug\serialTerm.exe.config
+C:\Users\baris\source\repos\serialTerm\serialTerm\bin\Debug\serialTerm.exe
+C:\Users\baris\source\repos\serialTerm\serialTerm\bin\Debug\serialTerm.pdb
+C:\Users\baris\source\repos\serialTerm\serialTerm\obj\Debug\serialTerm.csproj.AssemblyReference.cache
+C:\Users\baris\source\repos\serialTerm\serialTerm\obj\Debug\serialTerm.Form1.resources
+C:\Users\baris\source\repos\serialTerm\serialTerm\obj\Debug\serialTerm.Properties.Resources.resources
+C:\Users\baris\source\repos\serialTerm\serialTerm\obj\Debug\serialTerm.csproj.GenerateResource.cache
+C:\Users\baris\source\repos\serialTerm\serialTerm\obj\Debug\serialTerm.csproj.CoreCompileInputs.cache
+C:\Users\baris\source\repos\serialTerm\serialTerm\obj\Debug\serialTerm.exe
+C:\Users\baris\source\repos\serialTerm\serialTerm\obj\Debug\serialTerm.pdb
